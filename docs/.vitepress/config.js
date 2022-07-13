@@ -2,6 +2,7 @@ const path = require("path");
 const fs = require("fs");
 
 export default {
+  base: '/rty-docs/',
   title: "rty-docs",
   description: "learning studing self-taught",
   appearance: true,
